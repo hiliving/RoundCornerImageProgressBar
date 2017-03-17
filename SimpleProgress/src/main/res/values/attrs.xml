@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RadiusProgress">
+        <attr name="thumb_src" format="reference"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="radius" format="dimension" />
+        <attr name="max" format="integer" />
+    </declare-styleable>
+</resources>
